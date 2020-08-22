@@ -1,3 +1,12 @@
+# passport-yahoo-oauth2-with-openid
+
+This is a fork to get this published to NPM. It is not clear why the upstream has not
+published this package to NPM however with the recent Yahoo changes it is no doubt
+needed by more than just me so. Issue for lack of publishing opened here:
+
+https://github.com/auth0/passport-yahoo-oauth2/issues/4
+
+
 # Passport-Yahoo-OAuth
 
 [Passport](http://passportjs.org/) strategies for authenticating with [Yahoo!](http://www.yahoo.com/)
